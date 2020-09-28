@@ -1,0 +1,8 @@
+*.exe
+*.out
+*.in
+.idea/
+cmake-build-debug/
+*.txt
+*.doc
+Задания/
